@@ -7,6 +7,7 @@ corresponding allele-specific read count. See [2] for details about the method.
 
 
 References
+
 [1] Pagliarini R, Marroni F, Piazza C, Gabelli G, Magris G, Gaspero GD, et al. Towards a computational
     approach to quantification of allele specific expression at population level. Rojas I, Ortuno F, Rojas F, ˜
     Herrera LJ, Valenzuela O, editors, IWBBIO (2) (Springer) (2024), Lecture Notes in Computer Science,
